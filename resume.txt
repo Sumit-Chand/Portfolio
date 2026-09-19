@@ -1,0 +1,26 @@
+Sumit Chand
+Engineering Student / Developer
+Email: chandsumit939@gmail.com
+LinkedIn: https://www.linkedin.com/in/sumit-chand-1812a828a
+GitHub: https://github.com/Sumit-Chand
+Instagram: https://www.instagram.com/_sumitchand
+
+Short Bio:
+Hi there, I'm Sumit! 👋
+Engineering student focused on AI, Cybersecurity, Python, and Prompt Engineering.
+Strengthening my programming fundamentals while learning new technologies and building practical projects.
+Always eager to learn, build, and share meaningful work.
+
+Skills:
+HTML, CSS, C++, Java, Python, MySQL, Canva, Adobe, Cisco, Meta, GitHub, VS Code
+
+Projects:
+AI-Based Face Recognition Attendance System
+A web application built with Python and Flask. Allows students to register their faces with department/academic year details, trains a recognition model, and marks attendance in real time via live camera without requiring login at the camera. Includes dedicated dashboards and login systems for students and teachers to view attendance records and reports.
+
+Work Experience:
+Data Analyst Intern (Automotive Industry) — Internshala
+
+Education:
+B.Tech (4th Year) — Govt. Nanhi Pari Seemant Engineering Institute, Pithoragarh (Veer Madho Singh Bhandari Uttarakhand Technical University, Dehradun)
+12th Grade (CBSE, 2023) — The Asian Academy Senior Secondary School
