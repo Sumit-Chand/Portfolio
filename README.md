@@ -1,16 +1,49 @@
-# Portfolio Site
+# Sumit Chand | Portfolio
 
-A simple static portfolio website built with HTML, CSS, and JavaScript.
+A responsive personal portfolio website built with HTML, CSS, and JavaScript. It showcases a developer profile with sections for about, skills, experience, featured projects, and contact details.
 
-## Open locally
+## Live Demo
 
-From this folder, run:
+Open the site locally in your browser after running the project.
+
+## Features
+
+- Modern single-page portfolio layout
+- Responsive design for desktop and mobile devices
+- Animated hero section and smooth UI interactions
+- Skills, project, and experience sections
+- Downloadable resume link
+- Contact section with social media links
+- Lightweight static site, no framework needed
+
+## Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript
+- Static hosting compatible
+
+## Project Structure
+
+```text
+Portfolio/
+├── index.html
+├── styles.css
+├── script.js
+├── resume.txt
+├── README.md
+└── .gitignore
+```
+
+## Run Locally
+
+From the project folder, start a local server:
 
 ```bash
 python -m http.server 8000
 ```
 
-Then visit:
+Then open:
 
 ```text
 http://localhost:8000
@@ -18,5 +51,29 @@ http://localhost:8000
 
 ## Customize
 
-Update the content in `index.html` with your real name, projects, experience, and contact information.
- 
+You can update the portfolio content by editing:
+
+- `index.html` for personal details, experience, projects, and contact links
+- `styles.css` for colors, layout, and visual styling
+- `script.js` for animation and interaction behavior
+- `resume.txt` for your resume content
+
+## Deployment
+
+This project can be hosted on:
+
+- GitHub Pages
+- Netlify
+- Vercel
+- Any static web hosting service
+
+## Contact
+
+- Email: chandsumit939@gmail.com
+- LinkedIn: https://www.linkedin.com/in/sumit-chand-1812a828a
+- GitHub: https://github.com/Sumit-Chand
+- Instagram: https://www.instagram.com/_sumitchand
+
+## License
+
+This project is for personal portfolio use. Feel free to adapt it for your own portfolio.
