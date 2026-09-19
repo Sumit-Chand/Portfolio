@@ -10,7 +10,11 @@ Open the site locally in your browser after running the project.
 
 - Modern single-page portfolio layout
 - Responsive design for desktop and mobile devices
-- Animated hero section and smooth UI interactions
+- Animated hero section with typing effect and glow backgrounds
+- Interactive skill cards, project cards, and motion-based hover states
+- Sticky navigation with mobile menu support
+- Light/Dark theme toggle for a more polished experience
+- Smooth reveal animations and tilt effects for richer UI interaction
 - Skills, project, and experience sections
 - Downloadable resume link
 - Contact section with social media links
